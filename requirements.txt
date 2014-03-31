@@ -1,0 +1,4 @@
+Django==1.6
+gunicorn==18.0
+djpg==0.13
+psycopg==2.5.1
